@@ -15,7 +15,7 @@ angular.module('app', ['flowChart', ])
 	}
 	*/
 
-	// Return the browsers prompt function.
+	// Return the browsers prompt function
 	return prompt;
 })
 
